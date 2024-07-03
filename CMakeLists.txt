@@ -66,7 +66,7 @@ enable_testing()
 add_subdirectory(test)
 
 # Documentation & Man Pages
-add_subdirectory(doc)
+# add_subdirectory(doc)
 
 # Package SRecord
 include(CPack)

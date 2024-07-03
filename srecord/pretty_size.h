@@ -21,6 +21,7 @@
 #define SRECORD_PRETTY_SIZE_H
 
 #include <string>
+#include <cstdint>
 
 namespace srecord
 {

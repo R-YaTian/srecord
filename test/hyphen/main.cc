@@ -20,6 +20,7 @@
 #include <cstdlib>
 #include <getopt.h>
 #include <string>
+#include <cstdint>
 
 #include <srecord/progname.h>
 #include <srecord/quit.h>

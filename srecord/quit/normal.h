@@ -19,6 +19,8 @@
 #ifndef SRECORD_QUIT_NORMAL_H
 #define SRECORD_QUIT_NORMAL_H
 
+#include <cstdint>
+
 #include <srecord/quit.h>
 
 namespace srecord

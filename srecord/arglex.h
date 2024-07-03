@@ -25,6 +25,7 @@
 #include <list>
 #include <vector>
 #include <string>
+#include <cstdint>
 
 #define SRECORD_ARGLEX_END_MARKER {0,0}
 

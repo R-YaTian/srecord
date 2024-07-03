@@ -81,6 +81,8 @@ if(NOT DEFINED COPYRIGHT_YEARS)
 endif()
 message(STATUS "COPYRIGHT_YEARS ${COPYRIGHT_YEARS}")
 
+set(CMAKE_FIND_LIBRARY_SUFFIXES ".a")
+
 # Autoconf-like tasks:
 # Crypto library
 include(CheckIncludeFiles)

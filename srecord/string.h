@@ -20,6 +20,7 @@
 #define SRECORD_STRING_H
 
 #include <string>
+#include <cstdint>
 
 namespace srecord {
 
